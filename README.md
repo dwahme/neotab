@@ -1,3 +1,3 @@
 # Neotab
 
-AN extension for reskinning the chome newtab page.
+An extension for reskinning the chome newtab page.
