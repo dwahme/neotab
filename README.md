@@ -1,1 +1,3 @@
-# Browser Extension Starter
+# Neotab
+
+AN extension for reskinning the chome newtab page.
